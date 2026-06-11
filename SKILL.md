@@ -36,6 +36,7 @@ Seedance 2.0 operating loop for agent-directed video work. Use this root skill t
 | Vague idea or missing brief | `[skill:seedance-interview]` or `[skill:seedance-interview-short]` |
 | Production prompt | `[skill:seedance-prompt]`, `[ref:quick-ref]`, `[ref:prompt-examples]` |
 | Planning any shot, mode, or budget | `[ref:capability-map]` |
+| Multi-shot prompt, cuts inside one clip, or shots-per-duration budget | `[ref:multishot-grammar]` |
 | Professional film, commercial, campaign, or delivery workflow | `[ref:pro-filmmaking-standards]`, `[ref:shot-list-continuity]`, `[ref:delivery-qc]` |
 | Compact prompt or Chinese compression | `[skill:seedance-prompt-short]`, language vocab reference |
 | Camera, lens, blocking, shot contract | `[skill:seedance-camera]`, `[ref:cinematography-shot-language]` |
