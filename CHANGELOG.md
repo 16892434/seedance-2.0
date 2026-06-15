@@ -2,6 +2,21 @@
 
 All notable changes to this project are documented here.
 
+## [5.5.3] — 2026-06-15
+
+### Added
+
+- Added a deep-research accuracy layer to the reference set, verified against authoritative sources (Variety, CNBC, SCMP, arXiv, ByteDance Seed, provider-primary pages) and labeled by source quality:
+  - **Platform safeguards now live** in `api-status.md`: real-face input blocking, copyrighted-character blocking, visible watermark + C2PA Content Credentials, and invisible watermarking with proactive IP monitoring — current platform behavior, not hypothetical policy, making the copyright/filter skills the working path through live guardrails.
+  - **Resolution model-vs-surface** clarity: native 480p/720p per primary sources; 1080p is surface-specific (and even one surface's docs can disagree).
+  - **Non-Seedance Models** section in `model-name-map.md`: Seedream (ByteDance's image model — top confusion risk), Doubao-Seed-2.0 (LLM), and version-correct Sora 2 (sunsetting), Veo 3.1, Kling 3.0, Runway Gen-4.5; plus BytePlus `dreamina-` IDs and the Volcengine pro variant.
+  - **Competitive context** in `capability-map.md`: native audio is now table stakes across competitors, not Seedance-unique.
+  - **New verified hosts** (WaveSpeedAI, Higgsfield, Pollo) and an **API-shape rule** in `platform-surface-matrix.md`: all video surfaces use async submit/poll; "OpenAI-compatible" is always chat-only.
+
+### Changed
+
+- Bumped active skill metadata, validator expectations, and eval metadata to v5.5.3.
+
 ## [5.5.2] — 2026-06-12
 
 ### Changed
