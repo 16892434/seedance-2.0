@@ -10,7 +10,7 @@ tags:
   - seedance-20
 metadata:
   version: "6.1.1"
-  updated: "2026-06-23"
+  updated: "2026-06-28"
   parent: "seedance-20"
   author: "Iamemily2050 (@iamemily2050)"
   repository: "https://github.com/Emily2040/seedance-2.0"

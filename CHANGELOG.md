@@ -8,7 +8,7 @@ Current active release: **6.1.1**. Older entries below are preserved as release 
 
 _No unreleased changes._
 
-## [6.1.1] — 2026-06-23
+## [6.1.1] — 2026-06-28
 
 ### Changed
 

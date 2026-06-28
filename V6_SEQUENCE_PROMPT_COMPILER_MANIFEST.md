@@ -116,7 +116,7 @@ git diff --check
 
 ## Release Acceptance Results
 
-Final full-suite run on 2026-06-23 (v6.1.1 beginner fast-lane release):
+Final full-suite run on 2026-06-28 (v6.1.1 beginner fast-lane release):
 
 - `python scripts/validate_skills.py --strict`: pass; root plus 28 sub-skills and required v6.1.1 files.
 - `python scripts/content_audit.py --strict`: pass; active content clean, migrated archived warnings remain warning-only.
