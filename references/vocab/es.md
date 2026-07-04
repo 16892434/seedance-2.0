@@ -15,7 +15,7 @@ Use this reference for Spanish Seedance prompt wording, role binding, and compac
 | FirstLastFrame | `movimiento continuo sin salto de montaje` | continuous motion, no jump cut |
 | FirstLastFrame | `mantener el mismo personaje, vestuario y espacio` | preserve same character, wardrobe, and layout |
 | Camera | `travelling de acercamiento lento` | slow push-in |
-| Camera | `retroceso para revelar el espacio` | pull back to reveal space |
+| Camera | `travelling de retroceso para revelar el espacio` | pull back to reveal space |
 | Camera | `seguimiento lateral estable` | stable lateral tracking |
 | Camera | `plano medio fijo` | locked medium shot |
 | Camera | `primer plano macro` | macro close-up |
@@ -30,7 +30,7 @@ Use this reference for Spanish Seedance prompt wording, role binding, and compac
 | Lens | `lente macro para detalle de material` | macro lens for material detail |
 | Lighting | `contraluz suave` | soft backlight |
 | Lighting | `luz cálida práctica desde la izquierda` | warm practical light from left |
-| Lighting | `halo frío de luna` | cool moon rim light |
+| Lighting | `luz de contorno fría de luna` | cool moon rim light |
 | Lighting | `luz volumétrica atravesando niebla fina` | volumetric light through mist |
 | Lighting | `asfalto mojado reflejando neón` | wet pavement reflects neon |
 | Motion | `la niebla se dispersa alrededor de los pasos` | fog spreads around footsteps |

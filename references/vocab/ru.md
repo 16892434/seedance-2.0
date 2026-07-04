@@ -13,7 +13,7 @@ Use this reference for Russian Seedance prompt wording, role binding, and compac
 | Role | `[Audio1] задает темп и настроение` | Audio 1 provides tempo and mood |
 | FirstLastFrame | `сохранить первый кадр без изменений` | keep first frame unchanged |
 | FirstLastFrame | `естественный переход к последнему кадру` | natural transition to final frame |
-| FirstLastFrame | `непрерывное движение без скачка монтажа` | continuous motion, no jump cut |
+| FirstLastFrame | `непрерывное движение без монтажного скачка` | continuous motion, no jump cut |
 | FirstLastFrame | `последний кадр является целевым финалом` | final frame is the target endpoint |
 | Camera | `фиксированный средний план` | locked medium shot |
 | Camera | `медленный наезд камеры` | slow push-in |
@@ -21,11 +21,11 @@ Use this reference for Russian Seedance prompt wording, role binding, and compac
 | Camera | `плавное боковое сопровождение` | stable lateral tracking |
 | Camera | `макросъемка крупным планом` | macro close-up |
 | Camera | `кадр через плечо` | over-the-shoulder shot |
-| Camera | `низкий ракурс` | low-angle shot |
+| Camera | `нижний ракурс` | low-angle shot |
 | Camera | `верхний ракурс` | high-angle shot |
-| Camera | `круговой облет вокруг объекта` | orbit around the subject |
+| Camera | `круговой облет объекта` | orbit around the subject |
 | Camera | `ручная камера с легким дыханием` | handheld camera with slight breathing sway |
-| Shot | `средний крупный план` | medium close-up |
+| Shot | `среднекрупный план` | medium close-up |
 | Shot | `широкий общий план` | wide establishing shot |
 | Shot | `профиль в три четверти` | three-quarter profile |
 | Lens | `сжатая перспектива телеобъектива` | telephoto compression |
@@ -61,7 +61,7 @@ Use this reference for Russian Seedance prompt wording, role binding, and compac
 
 ## Compact Template
 
-`[Image1] — референс; сохранить [персонажа/продукт/логотип] без изменений. Меняются только [движение/свет/камера]. Камера: [одно движение]. Звук: [аудио-сигнал].`
+`[Image1] — референс; сохранить [персонажа/продукт/логотип] без изменений. Меняются только [движение/свет/камера]. Камера: [одно движение]. Звук: [аудиосигнал].`
 
 ## Russian Dialogue Notes
 

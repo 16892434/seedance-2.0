@@ -107,7 +107,7 @@ Native Korean readers should separate subject lock, camera movement, lighting, a
 
 **Safe staged tension**
 
-`Постановочная напряженная сцена без графики: взрослый оригинальный персонаж отступает от закрытой двери, роняет ключи, затем замирает. Camera: locked medium shot. Lighting: low warm practical plus blue window rim. Sound: key drop, breath, no music.`
+`Постановочная напряженная сцена без натуралистичных деталей: взрослый оригинальный персонаж отступает от закрытой двери, роняет ключи, затем замирает. Camera: locked medium shot. Lighting: low warm practical plus blue window rim. Sound: key drop, breath, no music.`
 
 ## Multilingual Prompt Triage
 
@@ -150,4 +150,4 @@ Use these when the collaborator is not only prompting, but preparing a shot for 
 
 ### Russian QC handoff
 
-`[Image1] сохраняет оригинального персонажа и костюм; [Audio1] задает только темп. Камера фиксированная, средний план, один короткий жест. Post/QC: отдельные русские субтитры, textless version, проверить синхрон губ и отсутствие изменения лица.`
+`[Image1] сохраняет оригинального персонажа и костюм; [Audio1] задает только темп. Камера фиксированная, средний план, один короткий жест. Post/QC: отдельные русские субтитры, textless version, проверить липсинк и отсутствие изменений лица.`
